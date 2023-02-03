@@ -1,2 +1,2 @@
 # Ubion
-Various python codes for machine learning provided by Ubion
+Various basic python codes for data analysis provided by Ubion
